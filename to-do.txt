@@ -1,0 +1,71 @@
+1 window per server, 1 tab per site
+
+cloud logo (for sites not maintained by others)
+
+users
+	add JP
+	add names & emails
+	add rsyncd user
+
+site settings
+	check robots.txt
+	check site name
+
+languages
+	make sure english & french exist
+	check page title
+	have flag emoji
+	order is French 1 English 2
+	🇫🇷 🇬🇧
+	empty email parameters
+
+responsive
+	check that desktop is 1 mobile 2
+	desktop desc: 240+1200+240px
+	mobile: 60+300+60px
+
+prefix codes
+	fr 1 fm 2 en 3 em 4
+
+templates
+	make sure only 2
+	order live 1 debug 2
+
+notes
+Comment se servir des notes
+Introduction
+Svija Cloud
+Les notes, c'est un endroit où tu peux laisser des informations utiles.
+
+Elles peuvent se servir pour communiquer entre membres d'une équipe, pour marquer le progrès des travaux, etc.
+
+Elles sont à toi, et ne seront pas affectées par les mises à jour du site.
+
+
+site lists
+
+  beta.svija.com
+  beta.ovnius.com
+
+  antretoise.com
+  manik.fr
+  onecutstudio.com
+  ovnius.com
+  ozake.com
+  staffeur.fr
+  new.svija.com
+  svija.com
+
+  eman.svija.com
+  jp.svija.com
+  ocsprime.com
+  rocade-mozac.fr (not on line)
+  sandre.svija.com
+  beta01.svija.com
+  beta02.svija.com
+  ngc.svija.com
+
+  delta.svija.com                                                                  
+  devsvija  
+
+

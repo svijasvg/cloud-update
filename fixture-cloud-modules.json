@@ -1,0 +1,44 @@
+[
+{
+  "model": "svija.module",
+  "pk": 23042045,
+  "fields": {
+    "name": "Svija Cloud CP",
+    "enabled": true,
+    "always": true,
+    "screen": 1,
+    "section": 2,
+    "category": "Main",
+    "order": 9999,
+    "css_id": "cloudModule",
+    "filename": "",
+    "url": "",
+    "instructions": "",
+    "position": "attached",
+    "corner": "top left",
+    "offsetx": 0.0,
+    "offsety": 0.0
+  }
+},
+{
+  "model": "svija.module",
+  "pk": 23042046,
+  "fields": {
+    "name": "Svija Cloud MB",
+    "enabled": true,
+    "always": true,
+    "screen": 2,
+    "section": 2,
+    "category": "Main",
+    "order": 9999,
+    "css_id": "cloudModule",
+    "filename": "",
+    "url": "",
+    "instructions": "",
+    "position": "attached",
+    "corner": "top left",
+    "offsetx": 0.0,
+    "offsety": 0.0
+  }
+}
+]

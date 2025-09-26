@@ -1,0 +1,74 @@
+[
+{
+  "model": "svija.modulescript",
+  "pk": null,
+  "fields": {
+    "module": 23042045,
+    "type": "body JS",
+    "name": "fixture JS",
+    "content": "program:(\"undefined\"==typeof admin||!0==admin)&&(cloudModule.style.display=\"block\");function func_cloudModuleLink(){window.open(\"/cloud/svija/page/\"+page_pk+\"/change/\",\"_blank\")}function func_cloudForceLink(c){setCookie(makeCookieName(\"cloudForce\",svija_version),\"true\"),setCookie(\"screen_code\",c,7),window.location.replace(document.URL)}",
+    "order": 2,
+    "enabled": true
+  }
+},
+{
+  "model": "svija.modulescript",
+  "pk": null,
+  "fields": {
+    "module": 23042045,
+    "type": "CSS",
+    "name": "fixture CSS",
+    "content": "#cloudModule{\r\n  display:none;\r\n  width:1200.0rem; height:20.0rem; \r\n  position: absolute;\r\n  left: 0.0rem; right: ; top: 0.0rem; bottom: ;\r\n}",
+    "order": 1,
+    "enabled": true
+  }
+},
+{
+  "model": "svija.modulescript",
+  "pk": null,
+  "fields": {
+    "module": 23042046,
+    "type": "CSS",
+    "name": "fixture CSS",
+    "content": "#cloudModule{\r\n  display:none;\r\n  width:300.0rem; height:20.0rem; \r\n  position: absolute;\r\n  left: 0.0rem; right: ; top: 0.0rem; bottom: ;\r\n}",
+    "order": 1,
+    "enabled": true
+  }
+},
+{
+  "model": "svija.modulescript",
+  "pk": null,
+  "fields": {
+    "module": 23042046,
+    "type": "body JS",
+    "name": "fixture JS",
+    "content": "program:(\"undefined\"==typeof admin||!0==admin)&&(cloudModule.style.display=\"block\");function func_cloudModuleLink(){window.open(\"/cloud/svija/page/\"+page_pk+\"/change/\",\"_blank\")}function func_cloudForceLink(c){setCookie(makeCookieName(\"cloudForce\",svija_version),\"true\"),setCookie(\"screen_code\",c,7),window.location.replace(document.URL)}",
+    "order": 2,
+    "enabled": true
+  }
+},
+{
+  "model": "svija.modulescript",
+  "pk": null,
+  "fields": {
+    "module": 23042045,
+    "type": "HTML",
+    "name": "fixture HTML",
+    "content": "<svg id=\"cloudModule\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"\r\n\t viewBox=\"0 0 1200 20\" style=\"enable-background:new 0 0 1200 20;\" xml:space=\"preserve\">\r\n<style type=\"text/css\">\r\n\t.stcloudModule0{fill:#404040;fill:color(display-p3 0.251 0.251 0.251);;}\r\n\t.stcloudModule1{fill:#FFFFFF;fill:color(display-p3 1.0 1.0 1.0);;}\r\n\t.stcloudModule2{font-family:'Helvetica-Bold';}\r\n\t.stcloudModule3{font-size:9.3201px;}\r\n\t.stcloudModule4{opacity:0.3;fill:#FF00FF;fill:color(display-p3 1.0 0.0 1.0);;}\r\n</style>\r\n<g id=\"static\">\r\n\t<rect x=\"400\" class=\"stcloudModule0\" width=\"400\" height=\"4\"/>\r\n</g>\r\n<g id=\"computer_00000094587739423285204380000010227129756003537583_\">\r\n\t<g id=\"events_00000178193668389179686380000009743305104629799061_\">\r\n\t\t<g id=\"ovaway_x2F_cloudModuleShow_x2F__x3C__x2F_-y16\">\r\n\t\t\t<rect x=\"400\" class=\"stcloudModule0\" width=\"400\" height=\"16\"/>\r\n\t\t\t<text transform=\"matrix(1 0 0 1 543.778 11.4286)\" class=\"stcloudModule1 stcloudModule2 stcloudModule3\">PAGES · MODULES · FONTS · MOBILE</text>\r\n\t\t\t<path id=\"logo__x3C_Compound_Path_x3E_\" class=\"stcloudModule1\" d=\"M511.081,4.743h-1.928v6.686h1.928V4.743z M514.508,2h-5.354v1.543h5.354\r\n\t\t\t\tV2z M514.508,4.743h-1.928V14h1.928V4.743z M491.752,11.429h-12.636V9.886h10.708V9.29l-10.708-1.041V4.743h12.636v1.543h-10.708\r\n\t\t\t\tv0.596l10.708,1.041V11.429z M528.682,4.743h-12.636v1.543h10.708v0.596l-10.708,1.041v3.506h12.636V4.743z M517.973,9.29\r\n\t\t\t\tl8.781-0.854v1.45h-8.781V9.29z M506.233,4.743l-3.965,4.907c-0.12,0.148-0.322,0.236-0.542,0.236h-2.534\r\n\t\t\t\tc-0.22,0-0.423-0.088-0.542-0.236l-3.965-4.907h-2.295l4.642,5.745c0.476,0.589,1.284,0.941,2.161,0.941h2.534\r\n\t\t\t\tc0.877,0,1.685-0.352,2.161-0.941l4.642-5.745H506.233z\"/>\r\n\t\t</g>\r\n\t</g>\r\n\t<g id=\"triggers_00000135666989667954179080000004269900814703346337_\">\r\n\t\t\r\n\t\t\t<rect id=\"mouse_x2F_cloudModuleShow_x2F_h_00000034054347623384782760000010140750197870428565_\" x=\"400\" y=\"0\" class=\"stcloudModule4\" width=\"400\" height=\"16\"/>\r\n\t\t<g id=\"mouse_x2F_cloudModuleShow_x2F_t100_00000002343377027278458990000004968008348070359737_\">\r\n\t\t\t<rect id=\"mouse_x2F_cloudForceLink_x2F_func_x2F_mb\" x=\"674.077\" class=\"stcloudModule4\" width=\"45.278\" height=\"16\"/>\r\n\t\t\t<a xlink:href=\"/cloud/svija/font/\" >\r\n\t\t\t\t\r\n\t\t\t\t\t<rect id=\"mouse_x2F_cloudModuleLink_x2F_n_00000095306829602173776790000018162334469703594652_\" x=\"634.709\" class=\"stcloudModule4\" width=\"39.368\" height=\"16\"/>\r\n\t\t\t</a>\r\n\t\t\t<a xlink:href=\"/cloud/svija/module/\" >\r\n\t\t\t\t\r\n\t\t\t\t\t<rect id=\"mouse_x2F_cloudModuleLink_x2F_n_00000102521076696828385890000001808072752234405287_\" x=\"580.46\" class=\"stcloudModule4\" width=\"54.249\" height=\"16\"/>\r\n\t\t\t</a>\r\n\t\t\t\r\n\t\t\t\t<rect id=\"mouse_x2F_cloudModuleLink_x2F_n_x2F_func_00000137827474649607899060000005160795634035180984_\" x=\"537.052\" class=\"stcloudModule4\" width=\"43.408\" height=\"16\"/>\r\n\t\t\t<a xlink:href=\"/cloud/svija/\" >\r\n\t\t\t\t\r\n\t\t\t\t\t<rect id=\"mouse_x2F_cloudModuleLink_x2F_n_00000060747301545571194410000010645602677798656438_\" x=\"471.147\" class=\"stcloudModule4\" width=\"65.905\" height=\"16\"/>\r\n\t\t\t</a>\r\n\t\t</g>\r\n\t</g>\r\n</g>\r\n<g id=\"mobile_-800px_·_3_x2F_4_scale\">\r\n</g>\r\n</svg>",
+    "order": 999,
+    "enabled": true
+  }
+},
+{
+  "model": "svija.modulescript",
+  "pk": null,
+  "fields": {
+    "module": 23042046,
+    "type": "HTML",
+    "name": "fixture HTML",
+    "content": "<svg id=\"cloudModule\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"\r\n\t viewBox=\"0 0 300 20\" style=\"enable-background:new 0 0 300 20;\" xml:space=\"preserve\">\r\n<style type=\"text/css\">\r\n\t.stcloudModule0{fill:#404040;fill:color(display-p3 0.251 0.251 0.251);;}\r\n\t.stcloudModule1{fill:#FFFFFF;fill:color(display-p3 1.0 1.0 1.0);;}\r\n\t.stcloudModule2{opacity:0.3;fill:#FF00FF;fill:color(display-p3 1.0 0.0 1.0);;}\r\n\t.stcloudModule3{font-family:'Helvetica-Bold';}\r\n\t.stcloudModule4{font-size:6.99px;}\r\n</style>\r\n<g id=\"static\">\r\n\t<rect x=\"30\" class=\"stcloudModule0\" width=\"240\" height=\"3\"/>\r\n</g>\r\n<g id=\"computer_00000094587739423285204380000010227129756003537583_\">\r\n</g>\r\n<g id=\"mobile_-800px_·_3_x2F_4_scale\">\r\n\t<g id=\"events_00000108992025863152367630000011813461904152967582_\">\r\n\t\t<g id=\"ovaway_x2F_cloudModuleShow_x2F__x3C__x2F_-y12\">\r\n\t\t\t<rect x=\"30\" class=\"stcloudModule0\" width=\"240\" height=\"12\"/>\r\n\t\t\t<text transform=\"matrix(1 0 0 1 103.6333 8.5715)\" class=\"stcloudModule1 stcloudModule3 stcloudModule4\">PAGES · MODULES · FONTS · COMPUTER</text>\r\n\t\t\t<path id=\"logo__x3C_Compound_Path_x3E__00000039133866049449262010000000059608741180029087_\" class=\"stcloudModule1\" d=\"M79.111,3.557\r\n\t\t\t\th-1.446v5.014h1.446V3.557z M81.681,1.5h-4.016v1.157h4.016V1.5z M81.681,3.557h-1.446V10.5h1.446V3.557z M64.614,8.571h-9.477\r\n\t\t\t\tV7.414h8.031V6.967l-8.031-0.781V3.557h9.477v1.157h-8.031v0.447l8.031,0.781V8.571z M92.311,3.557h-9.477v1.157h8.031v0.447\r\n\t\t\t\tl-8.031,0.781v2.629h9.477V3.557z M84.28,6.967l6.586-0.64v1.087H84.28V6.967z M75.475,3.557l-2.973,3.68\r\n\t\t\t\tc-0.09,0.111-0.242,0.177-0.407,0.177h-1.9c-0.165,0-0.317-0.066-0.407-0.177l-2.974-3.68h-1.722l3.481,4.308\r\n\t\t\t\tc0.357,0.442,0.963,0.706,1.62,0.706h1.9c0.658,0,1.263-0.264,1.62-0.706l3.481-4.308H75.475z\"/>\r\n\t\t</g>\r\n\t</g>\r\n\t<g id=\"triggers_00000181073426237804324250000001758332817446046129_\">\r\n\t\t\r\n\t\t\t<rect id=\"mouse_x2F_cloudModuleShow_x2F_h_00000136412415047763953460000003235718933801034401_\" x=\"30\" y=\"0\" class=\"stcloudModule2\" width=\"240\" height=\"12\"/>\r\n\t\t<g id=\"mouse_x2F_cloudModuleShow_x2F_t100_00000002372218471749183070000013562654005788277933_\">\r\n\t\t\t<rect id=\"mouse_x2F_cloudForceLink_x2F_func_x2F_cp\" x=\"201.358\" class=\"stcloudModule2\" width=\"46.259\" height=\"12\"/>\r\n\t\t\t<a xlink:href=\"/cloud/svija/font/\" >\r\n\t\t\t\t\r\n\t\t\t\t\t<rect id=\"mouse_x2F_cloudModuleLink_x2F_n_00000091016635196223027610000004614303414945077409_\" x=\"171.832\" class=\"stcloudModule2\" width=\"29.526\" height=\"12\"/>\r\n\t\t\t</a>\r\n\t\t\t<a xlink:href=\"/cloud/svija/module/\" >\r\n\t\t\t\t\r\n\t\t\t\t\t<rect id=\"mouse_x2F_cloudModuleLink_x2F_n_00000065062391255923695870000013272177131982164910_\" x=\"131.145\" class=\"stcloudModule2\" width=\"40.687\" height=\"12\"/>\r\n\t\t\t</a>\r\n\t\t\t\r\n\t\t\t\t<rect id=\"mouse_x2F_cloudModuleLink_x2F_n_x2F_func_00000160892516292628319060000018414329446445424804_\" x=\"98.589\" class=\"stcloudModule2\" width=\"32.556\" height=\"12\"/>\r\n\t\t\t<a xlink:href=\"/cloud/svija/\" >\r\n\t\t\t\t\r\n\t\t\t\t\t<rect id=\"mouse_x2F_cloudModuleLink_x2F_n_00000174596725924857891540000003005372540330329233_\" x=\"49.16\" class=\"stcloudModule2\" width=\"49.429\" height=\"12\"/>\r\n\t\t\t</a>\r\n\t\t</g>\r\n\t</g>\r\n</g>\r\n</svg>",
+    "order": 999,
+    "enabled": true
+  }
+}
+]
